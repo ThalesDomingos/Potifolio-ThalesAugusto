@@ -8,6 +8,7 @@
     $para = "thales_addo1@hotmail.com";
     $assunto = "Contato via site portifolio"
 
+    
     $corpo = 
         "Nome: ".$nome."\n".
         "Email: ".$email."\n".
